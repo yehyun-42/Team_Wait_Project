@@ -7,7 +7,7 @@
 DW아카데미 AIoT 기반 드론 관제 시스템 개발 4회차 3팀 팀프로젝트
 <br />
 
-**🥽 문제 인식**
+**🔎 문제 인식**
 <br />
 
 - 보호소 부지가 넓거나 실외 공간이 많은 경우, 제한된 인력으로 모든 유기 동물의 상태를 실시간 파악 불가.
@@ -16,7 +16,7 @@ DW아카데미 AIoT 기반 드론 관제 시스템 개발 4회차 3팀 팀프로
 - 지자체 및 기관 보고 시, 명확한 근거 자료 및 통계의 부족으로 인한 예산 절감 및 운영 개선안 마련이 어려움.
 <br />
 
-**🛠️ 기대 효과**
+**🥽 기대 효과**
 <br />
 
 - 드론을 활용하여 공중에서 사각지대 없이 실시간 순찰을 통하여 장소 및 시간에 따른 위험 상황을 즉각 포착.
@@ -44,24 +44,24 @@ DW아카데미 AIoT 기반 드론 관제 시스템 개발 4회차 3팀 팀프로
 - Database pipeline developer
 <br />
 
-**Tech Stack**
+**🛠️ Tech Stack**
 <br />
 
-**Languages**
+👽 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Database**
+💾 Database
 
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Flask-Migrate](https://img.shields.io/badge/Flask--Migrate-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-**Web**
+📰 Web
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-**AI**
+🤖 AI
 
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 
