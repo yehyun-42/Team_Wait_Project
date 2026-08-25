@@ -26,9 +26,12 @@ DW아카데미 AIoT 기반 드론 관제 시스템 개발 4회차 3팀 팀프로
 <br />
 
 # 👨‍💻 팀원: 5명
+팀장: 강동현
+<br />
+팀원: 서기원, 배가영, 장지웅, 서예현
 <br />
 
-**💻 1차**
+# 💻 1차
 <br />
 
 진행 기간: 2026.05.26 ~ 2026.06.16 (13일)
@@ -41,7 +44,28 @@ DW아카데미 AIoT 기반 드론 관제 시스템 개발 4회차 3팀 팀프로
 - Database pipeline developer
 <br />
 
-**💻 2차**
+**Tech Stack**
+<br />
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Database**
+
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Flask-Migrate](https://img.shields.io/badge/Flask--Migrate-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+**Web**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**AI**
+
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+
+# 💻 2차
 <br />
 
 진행 기간: 2026.08.24 ~ 2026.08.25(현재 진행중)
