@@ -56,7 +56,7 @@ def generate_frames():
     
     try:
         if model is None:
-            model = YOLO("C:/project_team3/workspaces/project_SSA/runs/detect/my_yolov12_project/yolov8n_train-6/weights/best.pt")
+            model = YOLO("your_model_path")
         
         # ✅ 연결 재시도
         stream_connection = connect_esp32_stream(max_retries=5)
