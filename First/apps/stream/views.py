@@ -61,12 +61,12 @@ anomaly_target = {"blue_alien": "외계인", "blue_shark": "상어", "pink_drago
 last_danger_detected_time = {k: 0 for k in anomaly_target.keys()}
 
 DANGER_COOLDOWN = 10.0  # 10초 쿨다운 설정
-DB_FILE_PATH = "C:/project_team3/workspaces/project_SSA/local.sqlite" 
+DB_FILE_PATH = "your_DB_file_path" 
 
 VIDEO_SOURCES = {
-    "video_1": "C:/project_team3/workspaces/project_SSA/videos/streaming_0.mp4",
-    "video_2": "C:/project_team3/workspaces/project_SSA/videos/streaming_2.mp4", # 기존 파일
-    "video_3": "C:/project_team3/workspaces/project_SSA/videos/streaming_5.mp4",
+    "video_1": "videos/streaming_0.mp4",
+    "video_2": "videos/streaming_2.mp4",
+    "video_3": "videos/streaming_5.mp4",
 }
 
 video_path = VIDEO_SOURCES["video_1"]
