@@ -8,7 +8,4 @@
 
 # How to Run?
 
-- First 내 파일 다운로드.
-- 경로: C:/project_team3/workspaces/project_SSA (YOLO의 학습 모델 및 코드 내에서 하드 코딩 된 경로로 인함.)
-- Flask run
-- 브라우저 주소창에 localhost:5000 입력 시 접속 가능.
+- processing...
