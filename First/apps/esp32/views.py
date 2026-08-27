@@ -25,7 +25,7 @@ esp32_yolov12 = Blueprint(
     static_folder="static",
 )
 
-ESP32_STREAM_URL = "http://192.168.137.140/stream"
+ESP32_STREAM_URL = "your_esp32_url/stream"
 TARGET_ANIMALS = TARGET_ANIMALS
 DB_FILE_PATH = DB_FILE_PATH
 
