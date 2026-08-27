@@ -24,7 +24,7 @@ DW아카데미 AIoT 기반 드론 관제 시스템 개발 4회차 3팀(잠깐만
 | 구분 | 기술 스택 |
 | :--- | :--- |
 | **Language** | Python |
-| **Framework** | Flask, SQLAlchemy |
+| **Framework** | Flask, SQLAlchemy, Flask-migreat |
 | **AI / Video** | YOLO, OpenCV |
 <br />
 
