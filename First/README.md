@@ -9,3 +9,17 @@
 # How to Run?
 
 - processing...
+- 수정해야 할 경로:
+
+**/apps/stream/views.py**
+<br />
+DB 경로
+<br />
+video 경로(First/videos/streaming_n)
+<br />
+
+**/apps/esp32/views.py**
+<br />
+AI 모델 경로(First/runs/detect/my_yolov12_project/yolov8n_train-6/weights/best.pt)
+<br />
+ESP32-CAM STREAM URL
