@@ -2,7 +2,7 @@
 **Stray Animal Shelter Monitoring System**
 <br />
 
-DW아카데미 AIoT 기반 드론 관제 시스템 개발 4회차 3팀 팀프로젝트
+DW아카데미 AIoT 기반 드론 관제 시스템 개발 4회차 3팀(잠깐만요) 팀프로젝트
 <br />
 
 **목적**
