@@ -45,6 +45,15 @@ DW아카데미 AIoT 기반 드론 관제 시스템 개발 4회차 3팀(잠깐만
 # 💻 2차
 <br />
 
+**사용 기술**
+<br />
+| 구분 | 기술 스택 |
+| :--- | :--- |
+| **Language** | Python, Java, SQL |
+| **Framework** | Flask, Spring |
+| **AI / Video** | YOLO, OpenCV |
+<br />
+
 진행 기간: 2026.08.24 ~ 현재 진행중
 <br />
 
